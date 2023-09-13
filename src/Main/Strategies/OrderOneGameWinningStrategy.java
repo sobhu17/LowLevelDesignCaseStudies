@@ -1,8 +1,8 @@
-package TicTacToeGame.Strategies;
+package Main.Strategies;
 
-import TicTacToeGame.Models.Board;
-import TicTacToeGame.Models.Moves;
-import TicTacToeGame.Models.Player;
+import Main.Models.Board;
+import Main.Models.Moves;
+import Main.Models.Player;
 
 import java.util.ArrayList;
 import java.util.HashMap;

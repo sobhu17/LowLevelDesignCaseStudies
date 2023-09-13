@@ -1,7 +1,7 @@
-package TicTacToeGame.Models;
+package Main.Models;
 
-import TicTacToeGame.Strategies.GameWinningStrategy;
-import TicTacToeGame.Strategies.OrderOneGameWinningStrategy;
+import Main.Strategies.GameWinningStrategy;
+import Main.Strategies.OrderOneGameWinningStrategy;
 
 import java.util.ArrayList;
 

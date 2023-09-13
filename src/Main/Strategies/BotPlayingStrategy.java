@@ -1,4 +1,4 @@
-package TicTacToeGame.Strategies;
+package Main.Strategies;
 
 public interface BotPlayingStrategy {
 }

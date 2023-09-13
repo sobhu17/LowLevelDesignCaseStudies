@@ -1,4 +1,4 @@
-package TicTacToeGame.Models;
+package Main.Models;
 
 public class Bot extends Player{
     private BotDefficultyLevel botDefficultyLevel;

@@ -1,4 +1,4 @@
-package TicTacToeGame.Factories;
+package Main.Factories;
 
 public interface PlayerFactory {
 }
