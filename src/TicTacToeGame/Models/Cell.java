@@ -1,4 +1,4 @@
-package Main.Models;
+package TicTacToeGame.Models;
 
 public class Cell {
     private Player player;

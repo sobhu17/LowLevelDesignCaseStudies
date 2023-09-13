@@ -1,4 +1,4 @@
-package Main.Models;
+package TicTacToeGame.Models;
 
 import java.util.ArrayList;
 

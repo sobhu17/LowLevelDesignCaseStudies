@@ -1,4 +1,4 @@
-package Main.Models;
+package TicTacToeGame.Models;
 
 public class Moves {
     private Player player;

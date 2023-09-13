@@ -1,7 +1,7 @@
-package Main;
+package TicTacToeGame;
 
-import Main.Controllers.GameController;
-import Main.Models.*;
+import TicTacToeGame.Controllers.GameController;
+import TicTacToeGame.Models.*;
 
 import java.util.ArrayList;
 import java.util.Scanner;

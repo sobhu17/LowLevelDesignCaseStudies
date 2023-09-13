@@ -1,8 +1,8 @@
-package Main.Controllers;
+package TicTacToeGame.Controllers;
 
-import Main.Models.Game;
-import Main.Models.GameStatus;
-import Main.Models.Player;
+import TicTacToeGame.Models.Game;
+import TicTacToeGame.Models.GameStatus;
+import TicTacToeGame.Models.Player;
 
 import java.util.ArrayList;
 
